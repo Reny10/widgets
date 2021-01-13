@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project with React Hooks. Include: Accordian, Search, Dropdown and Translate. Translate works only in localhost:3000.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
